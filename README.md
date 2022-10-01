@@ -1,5 +1,5 @@
 # discord-token
 
-alert((webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken());
+OTQ4OTI3Mjk2MjY0MzU1OTAx.GhqhI6.Grkic-9fpB1Zxczm749_gdqn8xa68ZVoepEIso
 
-paste this to get token always
+This is the Discord token
